@@ -1,0 +1,71 @@
+/*
+    RESET
+*/
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+*{
+    color: white;
+}
+
+.col-1{
+    background-color: #006CFA;
+}
+
+.col-2{
+    background-color: #006CFA;
+}
+
+.col-3{
+    background-color: #006CFA;
+}
+
+.col-4{
+    background-color: #006CFA;
+}
+
+.col-5{
+    background-color: #006CFA;
+}
+
+.col-6{
+    background-color: #006CFA;
+}
+
+.col-7{
+    background-color: #006CFA;
+}
+
+.col-8{
+    background-color: #006CFA;
+}
+
+.col-9{
+    background-color: #006CFA;
+}
+
+.col-10{
+    background-color: #006CFA;
+}
+
+.col-11{
+    background-color: #006CFA;
+}
+
+.col-12{
+    background-color: #006CFA;
+}
+
+.col-6 > div{
+    background-color: #00E165;
+    
+}
+
+.col-6 > .row > div{
+    background-color: #00E165;
+   
+}
