@@ -12,60 +12,86 @@
     color: white;
 }
 
+h2 {
+    color: black;
+}
+
 .col-1{
     background-color: #006CFA;
+    padding: 10px;
 }
 
 .col-2{
     background-color: #006CFA;
+    padding: 10px;
 }
 
 .col-3{
     background-color: #006CFA;
+    padding: 10px;
 }
 
 .col-4{
     background-color: #006CFA;
+    padding: 10px;
 }
 
 .col-5{
     background-color: #006CFA;
+    padding: 10px;
 }
 
 .col-6{
     background-color: #006CFA;
+    padding: 10px;
 }
 
 .col-7{
     background-color: #006CFA;
+    padding: 10px;
 }
 
 .col-8{
     background-color: #006CFA;
+    padding: 10px;
 }
 
 .col-9{
     background-color: #006CFA;
+    padding: 10px;
 }
 
 .col-10{
     background-color: #006CFA;
+    padding: 10px;
 }
 
 .col-11{
     background-color: #006CFA;
+    padding: 10px;
 }
 
 .col-12{
     background-color: #006CFA;
-}
-
-.col-6 > div{
-    background-color: #00E165;
+    padding: 10px;
     
 }
 
-.col-6 > .row > div{
+.row-reverse > .row{
+    flex-direction: row-reverse;
+}
+
+p{
     background-color: #00E165;
-   
+}
+
+
+.start > div {
+    justify-content: start;
+}
+.center > div {
+    justify-content: center;
+}
+.end > div {
+    justify-content: end;
 }
