@@ -16,6 +16,10 @@ h2 {
     color: black;
 }
 
+h3 {
+    color: black;
+}
+
 .col-1{
     background-color: #006CFA;
     padding: 10px;
@@ -94,4 +98,18 @@ p{
 }
 .end > div {
     justify-content: end;
+}
+
+.green{
+    background-color: #00E165;
+}
+
+.around{
+    display: flex;
+    justify-content: space-around;
+}
+
+.between{
+    display: flex;
+    justify-content: space-between;
 }
